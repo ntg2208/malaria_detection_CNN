@@ -157,9 +157,12 @@ We build a model used for Malaria blood cell classification with light weight an
  
 # Bibliography
 Arunava, 2020. Malaria Cell Images Dataset. [Online] 
+
 Available at: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria?datasetId=87153&sortBy=voteCount
 [Accessed 25 05 2022].
+
 Research, R., 2017. Malaria Screener. [Online] 
+
 Available at: https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html
 [Accessed 25 05 2022].
 
